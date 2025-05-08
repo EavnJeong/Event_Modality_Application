@@ -53,7 +53,7 @@ configs/ .txt files should be changed.
 
 # Download Checkpoints
 
-Checkpoint files are available in HuggingFace [LINK](https://huggingface.co/Eavn/event-clip/tree/main).
+Checkpoint files are available in HuggingFace [LINK](https://huggingface.co/Eavn/event-clip/tree/main), Google drive [LINK](https://drive.google.com/drive/folders/1uPAwjgcBL-FwQjhoxmeh-1sbtkvIkRy5).
 
 
     from huggingface_hub import hf_hub_download
